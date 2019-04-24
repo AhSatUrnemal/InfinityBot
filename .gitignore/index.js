@@ -14,3 +14,6 @@ bot.on''message', message -> {
   if (message.content === prefix + "dev")
     message.reply("Je suis actuellement indisponnible.")
 });
+
+
+bot.login(process.env.BOT_TOKEN);
