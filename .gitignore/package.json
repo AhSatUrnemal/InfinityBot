@@ -17,7 +17,7 @@
     "discordapp"
   ],
   "license": "MIT",
-  "main": "bot.js",
+  "main": "index.js",
   "directories": {
     "lib": "./lib"
   },
